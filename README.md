@@ -17,7 +17,7 @@ If you answered "Yes" to any of these, then do we have a competition for you!
 <br>
 
 ## What is it?
-The ITCSA Raspberry Pi Competition is for anybody and everybody. BYU students from accross campus will sign-up and form teams of 2-5 people. Each team will create a Raspberry Pi or Arduino Project and then show it off at the Pi Fair. These projects can be as simple as an LED stoplight or as complex as a rubix cube solver. If you created it, we want to see it!
+The ITCSA Raspberry Pi Competition is for anybody and everybody. BYU students from across campus will sign-up and form teams of 2-5 people. Each team will create a Raspberry Pi or Arduino Project and then show it off at the Pi Fair. These projects can be as simple as an LED stoplight or as complex as a rubix cube solver. If you created it, we want to see it!
 
 ## Whats in it for me?
 Money! And the joy of learning of course. 😉
@@ -46,7 +46,7 @@ We will cover all the details and rules specified here PLUS we will have pizza! 
 <br>
 
 # Rules (Not Optional)
-I know. I know. Rules are boring and the theif of fun, but we gotta have 'em to make things fair. After all $1000 is at stake!
+I know. I know. Rules are boring and the thief of fun, but we gotta have 'em to make things fair. After all $1000 is at stake!
 
 ## Challenge
 Students in teams of 2-5 will design, implement, and demonstrate a physical or virtual system with a Raspberry Pi or Arduino as the central component. The system must have utility, meaning it must perform or aid in the performance of a task. Team submissions will be judged live by BYU faculty and industry professionals at the Pi Fair on criteria found in the scoring section.
@@ -55,7 +55,7 @@ Students in teams of 2-5 will design, implement, and demonstrate a physical or v
 Teams must use a Raspberry Pi or Arduino as the central computing resource of their finished product. However, electric motors, graphical displays, and other mechanical and non-computing resources are encouraged. For demonstration purposes, web-application products may be demonstrated via a client browser, as long as the service being provided resides on the Raspberry Pi. For questions please email Jordan Ricks (jjricks1@gmail.com)
 
 ## Eligibility
-This competition is open for BYU graduate and undergraduate students only. Eligibility will be enforced. Projects must have been made in the past year. Projects that have won previously can not be resubmitted. Teams that have won previously are still eligable to win prizes given they submit a new project. To ecourage teamwork, teams of one are no longer eligible.
+This competition is open for BYU graduate and undergraduate students only. Eligibility will be enforced. Projects must have been made in the past year. Projects that have won previously can not be resubmitted. Teams that have won previously are still eligable to win prizes given they submit a new project. To encourage teamwork, teams of one are no longer eligible.
 
 Note: If you have a project that doesn't meet the requirements above, you are still welcome to display it at the Pi Fair. You will not be eligable for prizes however.
 
