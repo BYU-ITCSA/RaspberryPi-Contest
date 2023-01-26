@@ -73,19 +73,26 @@ To be eligible for the competition prizes, entries must be displayed during the 
 # Scoring Rubric
 This is the exact rubric that the judges will use to judge every entry. Be sure to look over the criteria to maximize your project's points!
 
-Creativity and Utility: 40%
+Creativity and Utility: 40
 1) Does the project demonstrate ingenuity or creativity to accomplish the task? ____________ /15
 2) Does the project do what it claims to do? ____________ /15
 3) Does/could the project benefit a larger group? (community, school, company, etc.)
 ________ /10
 
-Degree of Difficulty: 30%
+Degree of Difficulty: 30
 1) Relative to other competition entries, how technically difficult was the project to complete? ______/15
 2) How complex or challenging is the problem or task the project sought to solve or perform? ___________ /15
 
-Presentation: 30%
+Presentation: 30
 1) How professional is the presentation of the project? ______/15
 2) Does the presentation adequately demonstrate the project’s capabilities? _________/15
+
+Bonus Points: Up to 5 additional points
+1) For each unique grade level among your team, you will be awarded a 2 point bonus up to 5 points _________/5
+For example:
+A solo project will be awarded 2 points.
+A project with two Seniors will be awarded 2 points.
+A project with one Senior, two Juniors, and a Freshman will be awarded 5 points.
 
 <br>
 <br>
