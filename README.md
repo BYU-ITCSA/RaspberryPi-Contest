@@ -97,6 +97,26 @@ A project with one Senior, two Juniors, and a Freshman will be awarded 5 points.
 <br>
 <br>
 
+# Frequently asked Questions
+## What counts as an Arduino or Raspbery Pi?
+Any official Raspberry Pi counts as a Raspberry Pi. Any official Arduino is also permitted. Boards using the ESP32, ESP8266, or RP2040 are also permitted. If you have a board with a specific microcontroller that you would like to use, please send an email to jjricks1@gmail.com to ask if it is permitted. Generally, if it is a microprocessor used in any model of Raspberry Pi or Arduino, we will approve it and add it to this list.
+
+## Can I use multiple computing components as part of my project?
+Absolutely! In fact, this would likely add points due to the difficulty of making several devices work together to complete a task.
+
+## Can I interface with other computational components?
+Yes! As long as the main computational component in your project meets the requirements listed above, you can use additional resources. Functionality such as sending telemetry data to a cloud based database is allowed. Sending images to a server for AI analysis would probably not meet the requirement of using a Raspberry Pi or Arduino as the main computational component.
+
+## I am having a hard time getting a Raspberry Pi, but need one for my project. What can I do?
+Here are a few ideas:
+1. Make a team with a friend who has a Raspberry Pi already.
+2. Check to see if your project is possible with an Arduino or other approved board.
+3. Look at the file [How to get a Raspberry Pi.md](How to get a Raspberry Pi.md) for some tips.
+4. Buy a kit with a Raspberry Pi in it. These are generally easier to find, but cost more money.
+
+<br>
+<br>
+
 # Important Dates
 ### Sign-Ups
  - January 24th - March 4th
