@@ -111,7 +111,7 @@ Yes! As long as the main computational component in your project meets the requi
 Here are a few ideas:
 1. Make a team with a friend who has a Raspberry Pi already.
 2. Check to see if your project is possible with an Arduino or other approved board.
-3. Look at the file [How to get a Raspberry Pi.md](How-to-get-a-Raspberry-Pi.md) for some tips.
+3. Look at the file [How-to-get-a-Raspberry-Pi.md](https://github.com/BYU-ITCSA/RaspberryPi-Contest/blob/main/How-To-Get-A-Raspberry-Pi.md) for some tips.
 4. Buy a kit with a Raspberry Pi in it. These are generally easier to find, but cost more money.
 
 <br>
