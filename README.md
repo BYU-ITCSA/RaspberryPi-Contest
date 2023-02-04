@@ -65,7 +65,7 @@ In order to ensure legitimate projects, a short write up must be submitted befor
 <b>These initial submissions are only for the purpose of vetting legitimate entries, no scoring will take place at this stage in the competition.</b>
 
 ## The Pi Fair
-To be eligible for the competition prizes, entries must be displayed during the Pi Fair on March 14th from 5-7pm. Competitors will demonstrate their project’s functionality with a live demonstration.
+To be eligible for the competition prizes, entries must be displayed during the Pi Fair on March 14th from 4-6pm. Competitors will demonstrate their project’s functionality with a live demonstration.
 
 <br>
 <br>
