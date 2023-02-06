@@ -55,7 +55,7 @@ Students in teams of 1-5 will design, implement, and demonstrate a physical or v
 Teams must use a Raspberry Pi or Arduino as the central computing resource of their finished product. However, electric motors, graphical displays, and other mechanical and non-computing resources are encouraged. For demonstration purposes, web-application products may be demonstrated via a client browser, as long as the service being provided resides on the Raspberry Pi. For questions please email Jordan Ricks (jjricks1@gmail.com)
 
 ## Eligibility
-This competition is open for BYU graduate and undergraduate students only. Eligibility will be enforced. Projects must have been made in the past year. Projects that have won previously can not be resubmitted. Teams that have won previously are still eligable to win prizes given they submit a new project. To encourage teamwork, teams of one are no longer eligible.
+This competition is open for BYU graduate and undergraduate students only. Eligibility will be enforced. Projects must have been made in the past year. Projects that have won previously can not be resubmitted. Teams that have won previously are still eligable to win prizes given they submit a new project.
 
 Note: If you have a project that doesn't meet the requirements above, you are still welcome to display it at the Pi Fair. You will not be eligable for prizes however.
 
