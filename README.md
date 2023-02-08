@@ -123,7 +123,7 @@ Here are a few ideas:
  - Sign up [here](https://forms.gle/7Zn6JhB8y1P67aYL8)
 ### Pi Kickoff
  - Optional
- - February 8th Time TBD
+ - February 8th 7:00 - 8:00 PM
  - CTB 365
 ### Submission Due
  - March 13th before 11:59PM
