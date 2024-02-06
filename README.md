@@ -32,7 +32,7 @@ Projects will be judged by BYU professors and industry professionals. The top 3 
 
 
 ## How do I sign up?
-Glad you asked! Fill out the form at [this link](https://forms.gle/7Zn6JhB8y1P67aYL8). Hurry! Sign-ups close on March 4th!
+Glad you asked! Fill out the form at [this link](https://byu.az1.qualtrics.com/jfe/form/SV_5uN8SBf80CpPUpM). Hurry! Sign-ups close on March 4th!
 
 <br>
 <br>
@@ -119,7 +119,7 @@ Here are a few ideas:
 # Important Dates
 ### Sign-Ups
  - February 21th - March 13th
- - Sign up [here](https://forms.gle/7Zn6JhB8y1P67aYL8)
+ - Sign up [here](https://byu.az1.qualtrics.com/jfe/form/SV_5uN8SBf80CpPUpM)
 ### Pi Kickoff
  - Optional
  - February 8th 7:00 - 8:00 PM
