@@ -18,7 +18,7 @@
 
 3. Wait for an alert!
     - Alerts can come in at any day and time, so be ready
-    - Adafruit has consistently listed ~100 units of Raspberry Pi 4b (of varrying sizes) every Wednesday between 9am and 10am Mountain Time. I reccomend having the webpage open and ready to go right at 9. (set a reminder on your phone!)
+    - Adafruit has consistently listed ~100 units of Raspberry Pi 4b (of varrying sizes) every Wednesday between 9am and 10am Mountain Time. I recommend having the webpage open and ready to go right at 9. (set a reminder on your phone!)
 
 4. Check out fast!
     - From the time you get the alert you have about 1 minute before they are gone. 
