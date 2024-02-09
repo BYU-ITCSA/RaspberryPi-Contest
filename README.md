@@ -52,7 +52,7 @@ I know. I know. Rules are boring and the thief of fun, but we gotta have 'em to 
 Students in teams of 1-5 will design, implement, and demonstrate a physical or virtual system with a Raspberry Pi or Arduino as the central component. The system must have utility, meaning it must perform or aid in the performance of a task. Team submissions will be judged live by BYU faculty and industry professionals at the Pi Fair on criteria found in the scoring section.
 
 ## Design Constraints
-Teams must use a Raspberry Pi or Arduino as the central computing resource of their finished product. However, electric motors, graphical displays, and other mechanical and non-computing resources are encouraged. For demonstration purposes, web-application products may be demonstrated via a client browser, as long as the service being provided resides on the Raspberry Pi. For questions please email (192.168.byu.itsa@gmail.com)
+Teams must use a Raspberry Pi, Arduino, or similar IOT device as the central computing resource of their finished product. However, electric motors, graphical displays, and other mechanical and non-computing resources are encouraged. For demonstration purposes, web-application products may be demonstrated via a client browser, as long as the service being provided resides on the Raspberry Pi. For questions please email (192.168.byu.itsa@gmail.com)
 
 ## Eligibility
 This competition is open for BYU graduate and undergraduate students only. Eligibility will be enforced. Projects must have been made in the past year. Projects that have won previously can not be resubmitted. Teams that have won previously are still eligable to win prizes given they submit a new project.
