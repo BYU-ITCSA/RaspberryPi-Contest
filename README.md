@@ -69,6 +69,7 @@ To be eligible for the competition prizes, entries must be displayed during the 
 
 <br>
 <br>
+
 # Scoring Rubric
 This is the exact rubric that the judges will use to judge every entry. Be sure to look over the criteria to maximize your project's points!
 
