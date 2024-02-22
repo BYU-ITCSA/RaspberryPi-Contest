@@ -130,4 +130,4 @@ Here are a few ideas:
  - Email 192.168.byu.itsa@gmail.com
 ### The Pi Fair
  - March 14th 3:00PM - 5:00PM
- - In the CB Lounge
+ - In the CTB Lounge
