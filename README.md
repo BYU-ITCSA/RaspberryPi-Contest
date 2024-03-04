@@ -22,7 +22,7 @@ The ITCSA Raspberry Pi Competition is for anybody and everybody. BYU students fr
 ## Whats in it for me?
 Money! And the joy of learning of course. 😉
 
-Projects will be judged by BYU professors and industry professionals. The top 3 projects will recieve prizes.
+Projects will be judged by BYU professors, alumni, and industry professionals. The top 3 projects will recieve prizes.
 
 1st Place - $500
 
@@ -32,7 +32,7 @@ Projects will be judged by BYU professors and industry professionals. The top 3 
 
 
 ## How do I sign up?
-Glad you asked! Fill out the form at [this link](https://byu.az1.qualtrics.com/jfe/form/SV_5uN8SBf80CpPUpM). Hurry! Sign-ups close on March 4th!
+Glad you asked! Fill out the form at [this link](https://byu.az1.qualtrics.com/jfe/form/SV_5uN8SBf80CpPUpM). Hurry! Sign-ups close on March 13th!
 
 <br>
 <br>
@@ -65,7 +65,7 @@ In order to ensure legitimate projects, a short write up must be submitted befor
 <b>These initial submissions are only for the purpose of vetting legitimate entries, no scoring will take place at this stage in the competition.</b>
 
 ## The Pi Fair
-To be eligible for the competition prizes, entries must be displayed during the Pi Fair on March 14th in Crabtree lounge in CTB floor 2 from 3-5pm. Competitors will demonstrate their project’s functionality with a live demonstration.
+To be eligible for the competition prizes, entries must be displayed during the Pi Fair on March 14th in Crabtree lounge in CTB floor 2 from 3-5pm. Competitors will demonstrate their project’s functionality with a live demonstration. At least one team member must be present during the duration of the event.
 
 <br>
 <br>
